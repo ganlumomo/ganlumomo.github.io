@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-16 11:28:00-0800
 inline: true
 ---
 
-A simple inline announcement.
+Our [Multitask Multilayer Mapping](https://ieeexplore.ieee.org/abstract/document/9872320) paper was accepted by [IEEE Transactions on Robotics (TRO)](https://www.ieee-ras.org/publications/t-ro).

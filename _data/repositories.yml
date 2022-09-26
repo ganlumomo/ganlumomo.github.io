@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ganlumomo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+ - ganlumomo/thermal-uda-attention
+ - ganlumomo/MultiLayerMapping
+ - ganlumomo/BKISemanticMapping
+ - ganlumomo/minicheetah-traversability-irl
+ - ganlumomo/VisualInertialOdometry
+ - ganlumomo/DynamicSemanticMapping

@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: Our BKI Semantic Mapping was adapted and integrated by researchers from the Oxford Dynamic Robot Systems Group and deployed on Spot robot!
+date: 2022-8-8 1:11:00-0800
+inline: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+{% twitter https://twitter.com/dynamicrobots/status/1556734956604375047%}
