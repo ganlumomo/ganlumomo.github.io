@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.caltech.edu/'>California Insititute of Technology (Caltech)</a>. Address. Contacts. Moto. Etc.
+subtitle: ganlu [at] caltech [dot] edu
 
 profile:
   align: right
