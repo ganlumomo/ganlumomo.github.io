@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Mathematics for Robotics
-description: ROB 501 at University of Michigan
-img: assets/img/rob501.jpg
+title: Computational Linear Algebra
+description: ROB 101 at University of Michigan
+img: assets/img/rob101.jpg
 importance: 2
 category: course
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rob501f21.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rob101f21.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    ROB 501 Fall 2021
+    ROB 101 Fall 2021
  </div>
 
 I was one of the course developers for a new undergraduate-level robotics course **ROB 101: Computational Linear Algebra (Fall 2020)** at the University of Michigan, taught by [Prof. Jessy Grizzle](https://ece.umich.edu/faculty/grizzle/). The course was has been awarded [Provost's Teaching Innovation Prize](https://ece.engin.umich.edu/stories/provosts-teaching-innovation-prize-for-new-robotics-course-that-focuses-on-equitable-education) and highlighted on [The University Record](https://record.umich.edu/articles/six-projects-to-be-awarded-provosts-teaching-innovation-prizes/) in 2021 for focusing on equitable eduation.

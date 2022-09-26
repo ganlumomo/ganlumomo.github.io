@@ -7,7 +7,7 @@ subtitle: ganlu [at] caltech [dot] edu
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>MC 105-50</p>
     <p>1200 E. California Bvd.</p>
@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a Postdoc Researcher at the [Graduate Aerospace Laboratories of the California Institute of Technology (GALCIT)](https://galcit.caltech.edu/), working with [Prof. Soon-Jo Chung](https://galcit.caltech.edu/people/sjchung) as a member of the [Aerospace Robotics and Control Lab](http://aerospacerobotics.caltech.edu/).
 
-I have completed my Ph.D. in Robotics in 2022 from the [Robotics Institute](https://robotics.umich.edu/) at the [University of Michigan (UM)](https://umich.edu/), where I had the honor of being advised by [Prof. Ryan Eustice](http://robots.engin.umich.edu/~ryan/), [Prof. Jessy Grizzle](https://ece.umich.edu/faculty/grizzle/) and [Prof. Maani Ghaffari](https://curly.engin.umich.edu/people#h.7jd25w55csv).
+I have completed my Ph.D. in Robotics in 2022 from the [Robotics Institute](https://robotics.umich.edu/) at the [University of Michigan (UM)](https://umich.edu/), advised by [Prof. Ryan Eustice](http://robots.engin.umich.edu/~ryan/), [Prof. Jessy Grizzle](https://ece.umich.edu/faculty/grizzle/) and [Prof. Maani Ghaffari](https://curly.engin.umich.edu/people#h.7jd25w55csv).
 
-I am broadly interested in the intersection of Robotics, Computer Vision and Machine Learning. Specifically, my research focuses on perception and navigation for robot autonomy.
+I am broadly interested in Robotics, Computer Vision and Machine Learning. Specifically, my research focuses on perception and navigation for robot autonomy.
