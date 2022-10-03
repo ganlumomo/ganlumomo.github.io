@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mobile Robotics
+title: mobile robotics
 description: NA 568/EECS 568/ROB530 at University of Michigan
 img: assets/img/rob530.jpg
 importance: 1

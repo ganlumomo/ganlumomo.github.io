@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Others
+title: others
 description:
 img: assets/img/umich_impact.jpg
 importance: 1

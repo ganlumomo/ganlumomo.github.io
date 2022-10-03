@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computational Linear Algebra
+title: computational linear algebra
 description: ROB 101 at University of Michigan
 img: assets/img/rob101.jpg
 importance: 2
