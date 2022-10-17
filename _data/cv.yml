@@ -35,6 +35,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - Rising Star in Data Science from the University of Chicago
     - year: 2015
       items: 
         - National Graduate Scholarship of China
