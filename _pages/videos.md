@@ -12,7 +12,7 @@ nav_order: 2
   <h2 class="year">2022</h2>
   <div class="row">
   <div class="col-sm-9">
-  <div class="title">[Ph.D. Defense] Semantic-Aware Robotic Mapping in Unknown, Loosely Strctured Environments</div>
+  <div class="title">[Ph.D. Defense] Semantic-Aware Robotic Mapping in Unknown, Loosely Structured Environments</div>
   <p></p>
   <div class="video-container"><iframe class="video z-depth-1 rounded" src="https://www.youtube.com/embed/YMMSnOUpT6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   </div>
