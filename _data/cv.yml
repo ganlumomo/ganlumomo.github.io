@@ -31,7 +31,17 @@
     - title: Computer Vision Research Intern
       institution: Institute of Deep Learning (IDL), Baidu Times, Beijing, China
       year: 2015 - 2016
-    
+
+- title: Service
+  type: time_table
+  contents:
+    - title: Associate Editor
+      institution: IEEE Robotics & Automation Letters
+      year: 2023 - present
+    - title: Associate Co-Chair
+      institution: IEEE RAS Technical Commitee for Computer & Robot Vision
+      year: 2022 - present
+  
 - title: Honors and Awards
   type: time_table
   contents:
