@@ -23,3 +23,5 @@ I am an incoming Assistant Professor in the [School of Aerospace Engineering at 
 I have completed my Ph.D. in Robotics in 2022 from the [Robotics Institute](https://robotics.umich.edu/) at the University of Michigan (UM), advised by Prof. [Ryan Eustice](http://robots.engin.umich.edu/~ryan/), Prof. [Jessy Grizzle](https://ece.umich.edu/faculty/grizzle/) and Prof. [Maani Ghaffari](https://curly.engin.umich.edu/people#h.7jd25w55csv). I worked as a member of the Perceptual Robotics Laboratory ([PeRL](http://robots.engin.umich.edu/)), the Computational Autonomy and Robotics Laboratory ([CURLY](https://curly.engin.umich.edu/)), and the [Bipedal Robotics lab](https://www.biped.solutions/) at UM.
 
 I am broadly interested in Robotics, Computer Vision and Machine Learning. Specifically, my research focuses on perception and navigation for robot autonomy.
+
+***My group at Georgia Tech is actively seeking AE/Robotics Ph.D. students to join us in Fall 2024. Please refer to our [lab website](https://sites.gatech.edu/lunarlab/opportunities/) for more details.***

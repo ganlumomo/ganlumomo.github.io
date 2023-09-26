@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-6-21 11:03:00-0800
+date: 2023-8-23
 inline: true
 ---
 
-Our paper [Online Self-Supervised Thermal Water Segmentation for Aerial Vehicles](https://arxiv.org/abs/2307.09027) was accepted by [IROS 2023](https://ieee-iros.org).
+Invited talk at Institute for Robotics and Intelligent Machines [Fall 2023 Symposium](https://research.gatech.edu/robotics/symposium) at Georgia Tech.
