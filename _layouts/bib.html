@@ -123,6 +123,11 @@
           <div class="periodical">
             {{ periodical | strip }}
           </div>
+
+          {%- if entry.highlight -%}
+          <p style="color: red;"> {{entry.highlight }} </p>
+          <!-- {%- capture entrynote -%}{{ " " }}{{entry.note}}{%- endcapture -%} -->
+          {%- endif %}
         {%- endif %}
         
           <!-- Links/Buttons -->
