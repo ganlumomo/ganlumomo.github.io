@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ganlu [at] caltech [dot] edu <br> lgan [at] gatech [dot] edu
+subtitle: lgan [at] gatech [dot] edu
 
 profile:
   align: right
